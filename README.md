@@ -1,11 +1,11 @@
-<h1 align="center">HELLO World! I'm Bon Lozano</h1>
+<h1 align="center">Beep Boop! I'm Bon Lozano</h1>
 <h3 align="center">Still learning and an aspiring Web Developer</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wannabebon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bon" height="30" width="40" /></a>
+<a href="https://twitter.com/bonlozano13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bon" height="30" width="40" /></a>
  <a href="https:linkedin.com/in/bon-louise-lozano-301168b8o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bon-a" height="30" width="40" /></a>
 </p>
 
