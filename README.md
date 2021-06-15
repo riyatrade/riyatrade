@@ -2,7 +2,8 @@
 <h3 align="center">Still learning and an aspiring Web Developer</h3>
 
 - 🌱 I’m currently learning **Javascript**
-<h3 align="left">Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. </h3>
+- 🌱Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+- Frontend Mentor challenges help me improve coding skills by building realistic projects.
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
