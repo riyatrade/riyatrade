@@ -2,7 +2,8 @@
 <h3 align="center">Still learning and an aspiring Web Developer</h3>
 
 - 🌱 I’m currently learning **Javascript**
-Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+<h3 align="left">Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. </h3>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bonlozano13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bon" height="30" width="40" /></a>
