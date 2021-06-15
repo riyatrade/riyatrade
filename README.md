@@ -1,8 +1,8 @@
 <h1 align="center">Beep Boop! I'm Bon Lozano</h1>
 <h3 align="center">Still learning and an aspiring Web Developer</h3>
 
-- 🌱 I’m currently learning **Javascript**
-- 🌱Frontend Mentor challenges helps me improve coding skills by building realistic projects <a href="https://www.frontendmentor.io/challenges?types=free" target="_blank">Frontend Mentor</a>.
+- 🌱 I’m currently learning **Javascript**.
+- 🌱 Frontend Mentor challenges helps me improve coding skills by building realistic projects <a href="https://www.frontendmentor.io/challenges?types=free" target="_blank">Frontend Mentor</a>.
 
  
 <h3 align="left">Connect with me:</h3>
